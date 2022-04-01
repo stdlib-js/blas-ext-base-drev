@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/blas-ext-base-drev",
+  "version": "0.0.0",
+  "description": "Reverse a double-precision floating-point strided array in-place.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/blas-ext-base-drev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "blas",
+    "extended",
+    "reverse",
+    "rev",
+    "flip",
+    "swap",
+    "strided",
+    "array",
+    "ndarray",
+    "float64",
+    "double",
+    "float64array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
