@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-drev",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Reverse a double-precision floating-point strided array in-place.",
   "license": "Apache-2.0",
   "author": {
