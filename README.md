@@ -189,8 +189,8 @@ console.log( x );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/blas/ext/base/grev`][@stdlib/blas/ext/base/grev]</span><span class="delimiter">: </span><span class="description">reverse a strided array in-place.</span>
--   <span class="package-name">[`@stdlib/blas/ext/base/srev`][@stdlib/blas/ext/base/srev]</span><span class="delimiter">: </span><span class="description">reverse a single-precision floating-point strided array in-place.</span>
+-   <span class="package-name">[`@stdlib/blas-ext/base/grev`][@stdlib/blas/ext/base/grev]</span><span class="delimiter">: </span><span class="description">reverse a strided array in-place.</span>
+-   <span class="package-name">[`@stdlib/blas-ext/base/srev`][@stdlib/blas/ext/base/srev]</span><span class="delimiter">: </span><span class="description">reverse a single-precision floating-point strided array in-place.</span>
 
 </section>
 
