@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import drev from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-drev@deno/mod.js';
+import drev from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-drev@v0.2.1-deno/mod.js';
 ```
 
 #### drev( N, x, stride )
@@ -148,7 +148,7 @@ drev.ndarray( 3, x, 1, x.length-3 );
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import drev from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-drev@deno/mod.js';
+import drev from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-drev@v0.2.1-deno/mod.js';
 
 var rand;
 var sign;
