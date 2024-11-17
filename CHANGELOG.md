@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-11)
+## Unreleased (2024-11-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`cb425f9`](https://github.com/stdlib-js/stdlib/commit/cb425f9efa61a4f81ebf2154f132ebe1f125ae19) - **refactor:** remove explicit cast and update function parameter description in `blas/ext/base/drev` [(#3127)](https://github.com/stdlib-js/stdlib/pull/3127) _(by Muhammad Haris)_
 -   [`ee9a830`](https://github.com/stdlib-js/stdlib/commit/ee9a8300ba0f24dabe4b7b67ffb3bbe94f251b36) - **feat:** add C `ndarray` API and refactor `blas/ext/base/drev` [(#3071)](https://github.com/stdlib-js/stdlib/pull/3071) _(by Muhammad Haris)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
