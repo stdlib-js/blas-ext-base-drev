@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`cb425f9`](https://github.com/stdlib-js/stdlib/commit/cb425f9efa61a4f81ebf2154f132ebe1f125ae19) - **refactor:** remove explicit cast and update function parameter description in `blas/ext/base/drev` [(#3127)](https://github.com/stdlib-js/stdlib/pull/3127) _(by Muhammad Haris)_
 -   [`ee9a830`](https://github.com/stdlib-js/stdlib/commit/ee9a8300ba0f24dabe4b7b67ffb3bbe94f251b36) - **feat:** add C `ndarray` API and refactor `blas/ext/base/drev` [(#3071)](https://github.com/stdlib-js/stdlib/pull/3071) _(by Muhammad Haris)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
@@ -37,10 +38,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
@@ -74,7 +76,7 @@ This release closes the following issue:
 
 -   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
 -   [`ceb4943`](https://github.com/stdlib-js/stdlib/commit/ceb494351d42c2505e559a2c8aad9a120c76d0db) - **docs:** remove comments _(by Athan Reines)_
--   [`c81e201`](https://github.com/stdlib-js/stdlib/commit/c81e2014d3b65f8f3ee1ad34a7c2ea08537becc8) - **refactor:** update `blas/ext/base/drev` to follow current project conventions [(#1839)](https://github.com/stdlib-js/stdlib/pull/1839) _(by Rutam, Athan Reines, Pranav Goswami)_
+-   [`c81e201`](https://github.com/stdlib-js/stdlib/commit/c81e2014d3b65f8f3ee1ad34a7c2ea08537becc8) - **refactor:** update `blas/ext/base/drev` to follow current project conventions [(#1839)](https://github.com/stdlib-js/stdlib/pull/1839) _(by Rutam Kathale, Athan Reines, Pranav Goswami)_
 
 </details>
 
@@ -91,7 +93,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 -   Athan Reines
 -   Philipp Burckhardt
 -   Pranav Goswami
--   Rutam
+-   Rutam Kathale
 
 </section>
 
