@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import drev from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-drev@deno/mod.js';
+import drev from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-drev@v0.3.1-deno/mod.js';
 ```
 
 #### drev( N, x, strideX )
@@ -142,7 +142,7 @@ drev.ndarray( 3, x, 1, x.length-3 );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import drev from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-drev@deno/mod.js';
+import drev from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-drev@v0.3.1-deno/mod.js';
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float64'
