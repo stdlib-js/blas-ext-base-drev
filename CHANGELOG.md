@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-02)
+## Unreleased (2026-06-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ec68ca7`](https://github.com/stdlib-js/stdlib/commit/ec68ca7cc35210db29a028d561ec71968e2ff753) - **docs:** fix TSDoc errors in `blas` declarations [(#12529)](https://github.com/stdlib-js/stdlib/pull/12529) _(by Philipp Burckhardt, Athan Reines)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
 -   [`8c645eb`](https://github.com/stdlib-js/stdlib/commit/8c645eb0cf64aa26ad02168e41e02587d4bc0d9b) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/drev` [(#10743)](https://github.com/stdlib-js/stdlib/pull/10743) _(by Prajjwal Bajpai)_
 -   [`e2500d8`](https://github.com/stdlib-js/stdlib/commit/e2500d89064c91840b42ee708a55da88a05b8a7b) - **bench:** refactor to use string interpolation in blas/ext/base/drev [(#10683)](https://github.com/stdlib-js/stdlib/pull/10683) _(by Kamal Singh Rautela)_
@@ -26,10 +27,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Kamal Singh Rautela
+-   Philipp Burckhardt
 -   Prajjwal Bajpai
 
 </section>
